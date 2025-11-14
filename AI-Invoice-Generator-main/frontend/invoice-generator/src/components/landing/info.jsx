@@ -15,7 +15,7 @@ const PersonalInfo = () => {
 
           {/* Name */}
           <h2 className="text-3xl font-extrabold text-blue-900 mb-1">
-            Rudraksha Kadam
+            Hitesh Thorat
           </h2>
 
           {/* Title */}
@@ -53,10 +53,10 @@ const PersonalInfo = () => {
             <p>
               <span className="font-semibold text-gray-600">📞 Phone:</span>{" "}
               <a
-                href="tel:9604122508"
+                href="tel:9422513433"
                 className="text-blue-800 underline hover:text-blue-900"
               >
-                9604122508
+                9422513433
               </a>
             </p>
             <p>
